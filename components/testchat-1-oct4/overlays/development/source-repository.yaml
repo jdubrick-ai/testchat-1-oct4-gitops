@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: testchat-1-oct4-repository
+spec:
+  url: https://github.com/jdubrick-ai/testchat-1-oct4
